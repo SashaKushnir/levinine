@@ -1,0 +1,8 @@
+.filmsWrapper{
+    display: grid;
+     grid-template-columns: 1fr 1fr; 
+}
+.toCenter { 
+    text-align: center;
+    padding: 10px;
+}

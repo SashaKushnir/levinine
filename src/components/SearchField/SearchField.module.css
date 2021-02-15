@@ -1,0 +1,10 @@
+.persumedArray:hover {
+    color: rgba(12, 9, 9, 0.452);
+}
+.selectedGenres {
+    background-color: grey;
+}
+.persumedGenreArray{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}

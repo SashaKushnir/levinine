@@ -1,0 +1,16 @@
+.filmItemWrapper {
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    padding: 15px;
+}
+.images{
+    width:80px;
+    border-radius:15%;
+    
+}
+.toRight {
+    text-align: right;
+}
+.paddingLeft{
+    padding-left: 10px;
+}
